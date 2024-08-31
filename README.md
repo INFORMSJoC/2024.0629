@@ -13,7 +13,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 
 Below is the BibTex for citing this snapshot of the repository.
 ```
-@article{combinatorialProbing,
+@article{combinatorialProbingGITHUB,
   author =        {Lozano, Leonardo and Borrero, Juan},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Bilevel Optimization Approach for a Class of Combinatorial Problems with Disruptions and Probing},
