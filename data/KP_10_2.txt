@@ -1,0 +1,6 @@
+profit_coefficients:
+62 66 53 56 77 88 59 79 83 52 
+investment_coefficients:
+9 41 40 7 48 45 35 15 18 31 
+total_funds:
+28
