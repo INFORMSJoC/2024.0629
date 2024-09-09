@@ -3,7 +3,7 @@
 # A Bilevel Optimization Approach for a Class of Combinatorial Problems with Disruptions and Probing
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The purpose of this repository is to share the codes, instances, and results used in the paper "A Bilevel Optimization Approach for a Class of Combinatorial Problems with Disruptions and Probing", authored by Leonardo Lozano and Juan Borrero.
+The purpose of this repository is to share the codes, instances, and results used in the paper ["A Bilevel Optimization Approach for a Class of Combinatorial Problems with Disruptions and Probing"](https://doi.org/10.1287/ijoc.2024.0629), authored by Leonardo Lozano and Juan Borrero.
 
 ## Cite
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
@@ -19,6 +19,7 @@ Below is the BibTex for citing this snapshot of the repository.
   title =         {A Bilevel Optimization Approach for a Class of Combinatorial Problems with Disruptions and Probing},
   year =          {2024},
   doi =           {10.1287/ijoc.2024.0629.cd},
+  url =           {https://github.com/INFORMSJoC/2024.0629},
   note =          {Available for download at https://github.com/INFORMSJoC/2024.0629},
 }  
 ```
